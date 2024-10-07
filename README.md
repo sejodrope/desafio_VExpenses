@@ -88,7 +88,7 @@ Para executar este projeto na sua máquina local, siga os passos abaixo:
    ```
 3. Execute o código Python ou abra o notebook Jupyter para visualizar a análise:
    ```bash
-   jupyter notebook netflix_analysis.ipynb
+   jupyter notebook desafio_VExpenses.ipynb
    ```
 
 ---
@@ -104,4 +104,4 @@ Além das respostas solicitadas no desafio, explorei o dataset para gerar insigh
 Caso tenha alguma dúvida ou sugestão, fique à vontade para me contatar:
 
 - **E-mail**: vieirasilvajosepedro@gmail.com
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/josepedrovieira/)
+- **LinkedIn**: [José Pedro](https://www.linkedin.com/in/josepedrovieira/)
